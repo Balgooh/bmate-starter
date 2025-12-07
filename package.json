@@ -1,6 +1,6 @@
 {
   "name": "bmate-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "bin": {
     "create-sajatprojektalap": "./index.js"
@@ -8,5 +8,10 @@
   "files": [
     "template"
   ],
-  "keywords": ["create","scaffold","vue","template"]
+  "keywords": [
+    "create",
+    "scaffold",
+    "vue",
+    "template"
+  ]
 }
