@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "type": "module",
   "bin": {
-    "create-sajatprojektalap": "./index.js"
+    "create-bmate-starter": "./index.js"
   },
   "files": [
     "template"
