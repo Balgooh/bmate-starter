@@ -4,6 +4,6 @@ import App from './App.vue'
 import { createPinia } from 'pinia'
 
 const app = createApp(App)
-const pina = createPinia();
-app.use(pina);
+const pinia = createPinia();
+app.use(pinia);
 app.mount('#app');
