@@ -14,21 +14,21 @@ A futtatáshoz az alábbiak szükségesek:
 
 - 🟢 Node.js (ajánlott az aktuális LTS verzió)
 - 📦 npm
-- 
+  
 ⚙️ Telepítés és futtatás
 
 1. Csomag indítása:
 
-npm create @bmate/starter "projekt neve"
+- npm create @bmate/starter "projekt neve"
 
 2. Szükséges csomagok telepítése:
 
-npm i axios  
-npm i pinia
+- npm i axios  
+- npm i pinia
 
 3. Fejlesztői szerver indítása:
 
-npm run dev 🚀
+- npm run dev 🚀
 
 📦 Használt csomagok
 
