@@ -47,3 +47,4 @@ A módosítások automatikusan frissülnek a böngészőben 🔄
 
 Ez a projekt egy Vue 3 starter sablon**, amely szabadon bővíthető  
 további könyvtárakkal vagy funkciókkal (pl. Vue Router).
+**Aki nem ezt használja Irigy ✌️**
