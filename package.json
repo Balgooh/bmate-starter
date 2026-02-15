@@ -1,6 +1,6 @@
 {
-  "name": "bmate-starter",
-  "version": "1.0.3",
+  "name": "@bmate/create-starter",
+  "version": "1.2.0",
   "type": "module",
   "bin": {
     "create-bmate-starter": "./index.js"
